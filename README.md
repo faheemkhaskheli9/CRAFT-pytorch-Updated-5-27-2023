@@ -1,4 +1,4 @@
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1qlj2bDB07_IGAyCo2V-_okdwscawSLVx))]
+[[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1qlj2bDB07_IGAyCo2V-_okdwscawSLVx))]](https://colab.research.google.com/drive/1qlj2bDB07_IGAyCo2V-_okdwscawSLVx)
 
 
 ## CRAFT: Character-Region Awareness For Text detection
