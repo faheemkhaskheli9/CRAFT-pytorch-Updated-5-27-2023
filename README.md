@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/lf1-io/padl/](https://colab.research.google.com/drive/1qlj2bDB07_IGAyCo2V-_okdwscawSLVx#scrollTo=d1uIh2C9R8TU))
+
 ## CRAFT: Character-Region Awareness For Text detection
 Official Pytorch implementation of CRAFT text detector | [Paper](https://arxiv.org/abs/1904.01941) | [Pretrained Model](https://drive.google.com/open?id=1Jk4eGD7crsqCCg9C9VjCLkMN3ze8kutZ) | [Supplementary](https://youtu.be/HI8MzpY8KMI)
 
